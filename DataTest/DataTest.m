@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 chiunti. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "DataTest.h"
 
-@interface ViewController ()
+@interface DataTest ()
 
 @end
 
-@implementation ViewController
+@implementation DataTest
 
 - (void)viewDidLoad {
     [super viewDidLoad];
